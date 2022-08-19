@@ -1,9 +1,11 @@
 ## My Projects
-<a href="https://lovefinderrzz.herokuapp.com/"</a> A Yelp clone for users to review various businesses 
+<a href="https://lovefinderrzz.herokuapp.com/">LoveFinderrz</a> A dating app for 2022. 
 
-<a href="https://polagrampython.herokuapp.com/%22%3EPolagram"</a> A instagram clone for users to share their photos with their followers
+<a href="https://sciencebnb.herokuapp.com/">ScienceBnb</a> A AirBnb clone with a Science Twist.
 
-<a href="https://metaoverflow.herokuapp.com/%22%3EMetaoverflow"</a> A message board where users can share thier opinion on metas of various videogames 
+<a href="https://polagrampython.herokuapp.com/%22%3EPolagram">Polagram</a> A instagram clone for users to share their photos with their followers
+
+<a href="https://metaoverflow.herokuapp.com/%22%3EMetaoverflow">Metaoverflow</a> A message board where users can share thier opinion on metas of various videogames 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyToji&layout=compact)](https://github.com/monkeytoji/github-readme-stats)
