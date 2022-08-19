@@ -1,9 +1,9 @@
 ## My Projects
-<a href="https://lovefinderrzz.herokuapp.com/">LoveFinderrz</a> A dating app for 2022. 
+<a href="https://lovefinderrzz.herokuapp.com/">LoveFinderrz</a> An dating app for 2022. 
 
-<a href="https://sciencebnb.herokuapp.com/">ScienceBnb</a> A AirBnb clone with a Science Twist.
+<a href="https://sciencebnb.herokuapp.com/">ScienceBnb</a> An AirBnb clone with a Science Twist.
 
-<a href="https://polagrampython.herokuapp.com/%22%3EPolagram">Polagram</a> A instagram clone for users to share their photos with their followers
+<a href="https://polagrampython.herokuapp.com/%22%3EPolagram">Polagram</a> An instagram clone for users to share their photos with their followers
 
 <a href="https://metaoverflow.herokuapp.com/%22%3EMetaoverflow">Metaoverflow</a> A message board where users can share thier opinion on metas of various videogames 
 
